@@ -1,0 +1,98 @@
+p.paget{
+    margin: 15px 0px;
+    font-size: 2vw;
+    padding: 0.5vw;
+    color: white;
+    background-color: gray;}
+
+p.big{
+    font-size: 20pt;
+    margin: 0 0 0 0;}
+
+footer.a{
+    margin: auto;
+    font-size: 1vw;
+    text-align: center;
+    color: white;
+    padding-top: 0.01vw;
+    background-color: #0F7CFF;
+    max-width: 70vw;}
+
+h1.t{
+    margin: 0%;
+    font-size: 3.2vw;
+    padding: 2.2vw;
+    text-align: center;
+    color: white;
+    font-weight: 100;
+    background-color: #FFCA20;}
+
+.navbar {     
+    display:flex;
+    justify-content:center;  }
+   
+  .navbar a {
+    font-size: 16px;
+    color: #0F7CFF;
+    text-align: center;    
+    padding: 5px 16px;
+    text-decoration: none;  }
+
+  .dropdown .dropbtn {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: #0F7CFF;
+    padding: 5px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;  }
+
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: lightgray;  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;   
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;  }
+
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;  }
+
+  .dropdown-content a:hover {
+    background-color: #ddd;  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;  }
+
+  .content {
+    max-width: 50vw;
+    margin: auto;
+    background: white;
+    padding: 5px;  }
+
+  tr {
+    padding: 2px;
+    border: solid thin;  }
+
+td{
+    padding: 5px;
+    border-style: hidden;}
+
+table{
+    border-collapse: collapse;}
+
+img.book{
+    width: 115px;
+    height: 150px;}
+
+img.pub{
+    padding: 20px;
+    width: 200px;
+    height: auto;}
